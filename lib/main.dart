@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
 class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: const Text('First Page')),
+        appBar: AppBar(title: const Text('ナビゲーションの使い方')),
         body: Center(
           child: Column(
             children: [
